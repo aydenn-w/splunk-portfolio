@@ -1,4 +1,4 @@
-# Day#3: Splunk Basics – HTTP Log Analysis
+# Day#4: Splunk Basics – HTTP Log Analysis
 
 ---
 
