@@ -1,4 +1,4 @@
-# Day#01- Splunk Basics: Investigating Unauthorized Access
+# Day#6- Splunk Basics: Investigating Unauthorized Access
 
 ---
 
