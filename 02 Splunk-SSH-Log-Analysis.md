@@ -1,4 +1,4 @@
-# Day#02: Splunk Basics – SSH Log Analysis
+# Day#03: Splunk Basics – SSH Log Analysis
 
 ---
 
