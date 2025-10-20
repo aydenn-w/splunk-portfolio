@@ -1,4 +1,4 @@
-# Day#02: Splunk Basics – Zeek Connection Log Analysis
+# Day#05: Splunk Basics – Zeek Connection Log Analysis
 
 ---
 
