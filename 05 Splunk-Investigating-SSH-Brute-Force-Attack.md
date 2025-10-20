@@ -1,4 +1,4 @@
-# Day#18- Splunk Basics: Investigating SSH Brute Force attack
+# Day#6- Splunk Basics: Investigating SSH Brute Force attack
 
 ---
 
